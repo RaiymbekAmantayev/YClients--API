@@ -13,4 +13,6 @@ AUTH_HEADERS
 Запуск скрипта
 node recordClient.js
 
+Результаты постмана на паке results
+
 
